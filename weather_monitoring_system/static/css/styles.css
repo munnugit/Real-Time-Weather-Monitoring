@@ -1,0 +1,24 @@
+body {
+    background-color: #f8f9fa; /* Light background */
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.city-card {
+    border: 1px solid #007bff; /* Border color for city cards */
+    background-color: #ffffff; /* White background for city cards */
+}
+
+.summary {
+    background-color: #e9ecef; /* Light grey background for summary */
+}
+
+.alert-container {
+    margin-top: 20px; /* Spacing for alerts */
+}
+
+.alert {
+    font-size: 1.1em; /* Slightly larger font for alerts */
+}
